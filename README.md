@@ -43,3 +43,9 @@ I have followed  KaiPereira™ tutorial.
 | Conn_01x20                  | J2, J3                         | PinHeader_1x20_P2.54mm_Vertical                      |
 | MCP1700x-330xxTT            | U2                             | SOT-23                                               |
 | SW_Push                     | SW1                            | SW_Push_SPST_NO_Alps_SKRK                            |
+
+# Cart 
+
+<img width="1510" height="771" alt="image" src="https://github.com/user-attachments/assets/c0d6abd5-6d8e-4637-a234-88546204357f" />
+
+
