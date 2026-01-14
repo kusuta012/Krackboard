@@ -1,7 +1,8 @@
 # Krackboard
 **A RP2040 devboard**
 
-This is my first big project , I have no prior experience with building electronic stuff , it was very fun to design this devboard. 
+This is my first big project , I have no prior experience with building electronic stuff , it was very fun to design this devboard.
+I have followed  KaiPereira™ tutorial. 
 
 # SCHEMATICS
 
