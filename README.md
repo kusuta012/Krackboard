@@ -20,6 +20,11 @@ I have followed  KaiPereira™ tutorial.
 <img width="630" height="790" alt="Screenshot 2026-01-15 174627" src="https://github.com/user-attachments/assets/c63e698b-68ca-4ffd-a612-f6ad6eb6999a" />
 <img width="886" height="484" alt="Screenshot 2026-01-15 174657" src="https://github.com/user-attachments/assets/39b15839-e8ca-48ae-97e5-4e242e613128" />
 
+# JLCPCB 
+
+<img width="1901" height="669" alt="image" src="https://github.com/user-attachments/assets/18a554d4-9066-4227-ac06-7fa4773e1dde" />
+<img width="1002" height="538" alt="image" src="https://github.com/user-attachments/assets/1df5dfa7-8dc5-475b-b1ff-ecad09fb5de2" />
+
 
 
 # BOM 
