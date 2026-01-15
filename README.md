@@ -6,21 +6,21 @@ I have followed  KaiPereira™ tutorial.
 
 # SCHEMATICS
 
-<img width="1154" height="792" alt="image" src="https://github.com/user-attachments/assets/ae4446ca-2e27-4013-b2d9-5dd06e230808" />
+<img width="1292" height="887" alt="Screenshot 2026-01-15 171837" src="https://github.com/user-attachments/assets/f80e22b2-31f0-4167-87c4-7fbf6c9e148b" />
+
 
 # PCB 
 
-<img width="365" height="867" alt="image" src="https://github.com/user-attachments/assets/58689537-5f9b-473a-9b93-30089e557b3f" />
+<img width="324" height="762" alt="Screenshot 2026-01-15 174729" src="https://github.com/user-attachments/assets/684badf0-efc7-4b5d-a62f-76b6a7a72002" />
+
 
 # SHOWCASE
 
-<img width="936" height="723" alt="image" src="https://github.com/user-attachments/assets/42691ebe-bb03-46f1-93f0-75fa3f371cb7" />
+<img width="1101" height="819" alt="Screenshot 2026-01-15 174601" src="https://github.com/user-attachments/assets/66cd761c-4e8e-4802-8dd9-11f35dc8b83b" />
+<img width="630" height="790" alt="Screenshot 2026-01-15 174627" src="https://github.com/user-attachments/assets/c63e698b-68ca-4ffd-a612-f6ad6eb6999a" />
+<img width="886" height="484" alt="Screenshot 2026-01-15 174657" src="https://github.com/user-attachments/assets/39b15839-e8ca-48ae-97e5-4e242e613128" />
 
-<img width="872" height="527" alt="image" src="https://github.com/user-attachments/assets/beb72fde-51f0-40b5-b046-37b2e6db81bb" />
 
-<img width="339" height="794" alt="image" src="https://github.com/user-attachments/assets/60ca6286-7817-4696-bf4f-bdda5b583623" />
-
-<img width="1065" height="748" alt="image" src="https://github.com/user-attachments/assets/4c19abd0-684d-4489-8ad2-00dbdddc0c41" />
 
 # BOM 
 | Comment                     | Designator                     | Footprint                                             |
