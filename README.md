@@ -25,6 +25,7 @@ I have followed  KaiPereira™ tutorial.
 # BOM 
 | Comment                     | Designator                     | Footprint                                             |
 |-----------------------------|--------------------------------|-------------------------------------------------------|
+| Everlight_IRM-H6xxT         | U3                             | Everlight_IRM-H6xxT                                  |
 | 0.1uF                       | C8, C4, C11, C9, C2, C12, C5, C3, C7, C17, C6 | C_0402_1005Metric                                    |
 | 10uF                        | C13, C14                       | C_0603_1608Metric                                    |
 | 5.1K                        | R2, R1                         | R_0402_1005Metric                                    |
