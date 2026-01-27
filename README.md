@@ -17,6 +17,7 @@ I have followed  KaiPereira™ tutorial.
 # SHOWCASE
 
 <img width="1101" height="819" alt="Screenshot 2026-01-15 174601" src="https://github.com/user-attachments/assets/66cd761c-4e8e-4802-8dd9-11f35dc8b83b" />
+<img width="630" height="650" alt="Screenshot 2026-01-15 174601" src="https://github.com/user-attachments/assets/2262ca6e-be34-4a01-b34d-8452ae2e9552" />
 <img width="630" height="790" alt="Screenshot 2026-01-15 174627" src="https://github.com/user-attachments/assets/c63e698b-68ca-4ffd-a612-f6ad6eb6999a" />
 <img width="886" height="484" alt="Screenshot 2026-01-15 174657" src="https://github.com/user-attachments/assets/39b15839-e8ca-48ae-97e5-4e242e613128" />
 
