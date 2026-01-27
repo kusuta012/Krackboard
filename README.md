@@ -50,6 +50,7 @@ I have followed  KaiPereira™ tutorial.
 | C25744 | 10kΩ resistor | 2 | 0.0012 |
 | C165948 | USB-C Type-C-31-M-12 | 2 | 0.3538 |
 | C25100 | 27Ω resistor | 20 | 0.012 |
+| C720477 | SW_Push | 2 | 0.0890 |
 | LOCAL_SHOP | WS2812B-2020 RGB LED | 1 | 0.15 |
 | LOCAL_SHOP | Connector 1x20 | 2 | 0.33 |
 | LOCAL_SHOP | Connector 1x03 | 1 | 0.1 |
