@@ -23,7 +23,7 @@ I have followed  KaiPereira™ tutorial.
 # JLCPCB 
 
 <img width="1908" height="752" alt="image" src="https://github.com/user-attachments/assets/c7ec6803-63b2-4a4a-9999-59dc39fb16de" />
-<img width="1002" height="538" alt="image" src="https://github.com/user-attachments/assets/1df5dfa7-8dc5-475b-b1ff-ecad09fb5de2" />
+
 <img width="1380" height="934" alt="image" src="https://github.com/user-attachments/assets/3fdcc2ec-8efc-4195-9129-bf2e736a0ab4" />
 <img width="1249" height="899" alt="image" src="https://github.com/user-attachments/assets/0c8b3d0b-ae09-4ffb-a4cb-3317bee5a416" />
 
